@@ -1,0 +1,3 @@
+insert into Pages (NumberOfLetters, NumberOfVowels, NumberOfConsonants, FontSize, NumberOfParagraphs, PageNumber, NumberOfLines) values (22, 5, 6, 12, 2, 36, 4);
+insert into Pages (NumberOfLetters, NumberOfVowels, NumberOfConsonants, FontSize, NumberOfParagraphs, PageNumber, NumberOfLines) values (40, 12, 18, 16, 2, 2, 12);
+insert into Pages (NumberOfLetters, NumberOfVowels, NumberOfConsonants, FontSize, NumberOfParagraphs, PageNumber, NumberOfLines) values (22, 5, 4, 8, 14, 9, 26);
